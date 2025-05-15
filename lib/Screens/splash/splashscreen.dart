@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:whatsapp/widgets/uihelper.dart';
-import 'package:whatsapp/Screens/onboarding.dart';
+import 'package:whatsapp/Screens/onboarding/onboarding.dart';
 
 class Splashscreen extends StatefulWidget {
   const Splashscreen({super.key});
