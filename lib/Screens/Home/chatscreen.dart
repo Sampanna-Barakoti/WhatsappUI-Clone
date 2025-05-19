@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:whatsapp/widgets/uihelper.dart';
 
 class Chatscreen extends StatelessWidget {
-  // const Chatscreen({super.key});
+  Chatscreen({super.key});
   var arr = [
     {
       "images": "assets/images/img4.jpg",
-      "name": "Anupama",
+      "name": "Aayusha",
       "lastmsg": "Hello my world",
       "time": "05:40 AM",
       "msg": "8",

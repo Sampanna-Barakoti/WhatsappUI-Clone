@@ -1,10 +1,10 @@
-import 'dart:ffi';
+// import 'dart:ffi';
 
 import 'package:flutter/material.dart';
 import 'package:whatsapp/widgets/uihelper.dart';
 
 class Statusscreen extends StatelessWidget {
-  // const Statusscreen({super.key});
+  Statusscreen({super.key});
   var statusContent = [
     {
       "name": "Kshitij Pandit",
